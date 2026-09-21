@@ -41,6 +41,12 @@ More C Piscine work (`c00`–`c05`) in [my repositories](https://github.com/amin
 
 Each step builds on the last: from raw pointers to processes and systems.
 
+## 📊 GitHub stats
+
+![amine-lr's stats](https://github-readme-stats.vercel.app/api?username=amine-lr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-lr&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=amine-lr&theme=tokyonight)
+
 ---
 
 📫 Find me here on GitHub — [@amine-lr](https://github.com/amine-lr)
