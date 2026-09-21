@@ -2,7 +2,7 @@
 
 **42 Urduliz student · Bilbao** — learning software the hard way: C, algorithms, and Unix, from the ground up.
 
-- 🔭 Currently working on: C projects (`push_swap`, Piscine `c01`) and Python Module 01
+- 🔭 Currently working on: **A-mazing** — 42 maze generator & solver
 - 🌱 Currently learning: algorithms & complexity, memory management, Unix processes/pipes
 - 👯 Open to: peer reviews, 42 collaborations, and feedback on my public projects
 - 📍 Based in Bilbao · studying at 42 Urduliz
