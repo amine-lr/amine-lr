@@ -43,8 +43,9 @@ Each step builds on the last: from raw pointers to processes and systems.
 
 ## 📊 GitHub stats
 
-![amine-lr's stats](https://github-readme-stats.vercel.app/api?username=amine-lr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-lr&layout=compact&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/amine-lr?style=social)
+![amine-lr's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amine-lr&theme=github_dark)
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amine-lr&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=amine-lr&theme=tokyonight)
 
 ---
