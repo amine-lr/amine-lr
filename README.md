@@ -32,9 +32,8 @@
 | [push_swap](https://github.com/amine-lr/push_swap) | Stack-based sorting with minimal operations |
 | [PIPEX](https://github.com/amine-lr/PIPEX) | Unix pipes — `fork`, `pipe`, `dup2`, `execve` |
 | [borno2beroot](https://github.com/amine-lr/borno2beroot) | Virtual machine & system administration basics |
-| [RUSH-BSQ](https://github.com/amine-lr/RUSH-BSQ) | Biggest-square algorithm (rush project) |
 
-More C Piscine work and exams in [my repositories](https://github.com/amine-lr?tab=repositories).
+More C Piscine work (`c00`–`c05`) in [my repositories](https://github.com/amine-lr?tab=repositories).
 
 ## 🧭 42 path
 
